@@ -1,0 +1,16 @@
+﻿<mui:ModernWindow x:Class="DesktopAnalyzer.MainWindow"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  Width="650"
+                  Height="550"
+                  IsTitleVisible="True"
+                  WindowStartupLocation="CenterScreen">
+    <mui:ModernWindow.MenuLinkGroups>
+        <mui:LinkGroup >
+            <mui:LinkGroup.Links>
+                <!-- the links themselves are added programmatically -->
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+    </mui:ModernWindow.MenuLinkGroups>
+</mui:ModernWindow>

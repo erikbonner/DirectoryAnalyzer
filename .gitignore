@@ -1,0 +1,25 @@
+bin/
+obj/
+.suo
+.mdf
+.ldf
+.dll
+.xml
+.pdb
+.tlog
+.obj
+.idb
+.log
+.exe
+packages/
+.lib
+.sdf
+.ipch
+.ilk
+.exp
+.pch
+.cache
+.orig
+syntax: glob
+Thumbs.db
+*.csproj.user
